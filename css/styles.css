@@ -1,0 +1,11 @@
+h1, h2, h3 {
+    font-family: 'MedievalSharp', cursive;}
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #000000, #ff0000, #000000);
+    color: white;
+    margin: 0;
+}
+.navbar {
+    background-color: #ff0000;
+}
