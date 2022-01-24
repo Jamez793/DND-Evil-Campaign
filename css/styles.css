@@ -1,3 +1,7 @@
+body {
+    background-color: #777777;
+    color: white;
+}
 h1, h2, h3 {
     font-family: 'MedievalSharp', cursive;}
 .jumbotron {
@@ -8,4 +12,8 @@ h1, h2, h3 {
 }
 .navbar {
     background-color: #ff0000;
+    color:white;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
 }
